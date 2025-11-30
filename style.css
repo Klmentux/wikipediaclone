@@ -7,16 +7,17 @@ box-sizing: border-box;
 background-color: black;
 color: aliceblue;
 font-family: "Gelasio", serif;
+padding-right: 0px;
 }
 
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-left: 600px;
+    padding-left: 300px;
     padding-top: 100px;
 }
 .firstparagraph{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-left:620px;
+    padding-left:320px;
 }
 
 
@@ -42,8 +43,8 @@ h1{
 .wikiimage{
 
     position: relative;
-    top: 100px;
-    left: 600px;
+    top: 115px;
+    left: 300px;
     z-index: 1;
 }
 
@@ -55,63 +56,63 @@ h1{
     }
 
       #itemi1{
-left: 510px;
+left: 210px;
 top: 190px;
 display: inline;
     } 
 
  #itemi2{
-left: 465px;
+left: 165px;
 top: 262px;
     }
 
       #itemi3{
-left: 440px;
+left: 140px;
 top: 327px;
     }
 
       #itemi4{
-left: 460px;
+left: 160px;
 top: 393px;
     }
 
       #itemi5{
-left: 520px;
+left: 220px;
 top: 450px;
     }
 
      #item6{
-left: 750px;
+left: 450px;
 top: 190px;
 z-index: 1;
     }
 
     #item7{
-left: 810px;
+left: 510px;
 top: 262px;
 z-index: 1;
     }
 
        #item8{
-left: 830px;
+left: 530px;
 top: 327px;
 z-index: 1;
     }
 
      #item9{
-left: 810px;
+left: 510px;
 top: 390px;
 z-index: 1;
     }
 
       #item10{
-left:750px;
+left:450px;
 top: 450px;
 z-index: 1;
     }
 
  #item11{
-left:580px;
+left:280px;
 top: 550px;
 z-index: 1;
     }   
