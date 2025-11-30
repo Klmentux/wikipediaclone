@@ -1,0 +1,124 @@
+
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+background-color: black;
+color: aliceblue;
+font-family: "Gelasio", serif;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 600px;
+    padding-top: 100px;
+}
+.firstparagraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left:620px;
+}
+
+
+.wiki-item a{
+    color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    background-color: transparent;
+}
+
+.wiki-item:hover{
+ background-color: rgb(96, 86, 86);
+
+
+}
+.wiki-item p{
+    background-color: transparent;
+}
+.wiki-item p:hover{
+ background-color: rgb(96, 86, 86);}
+
+.wikiimage{
+
+    position: relative;
+    top: 100px;
+    left: 600px;
+    z-index: 1;
+}
+
+    .wiki-item{
+        position: absolute;
+        line-height: 20px;
+        text-align: center;
+        padding: 8px;
+    }
+
+      #itemi1{
+left: 510px;
+top: 190px;
+display: inline;
+    } 
+
+ #itemi2{
+left: 465px;
+top: 262px;
+    }
+
+      #itemi3{
+left: 440px;
+top: 327px;
+    }
+
+      #itemi4{
+left: 460px;
+top: 393px;
+    }
+
+      #itemi5{
+left: 520px;
+top: 450px;
+    }
+
+     #item6{
+left: 750px;
+top: 190px;
+z-index: 1;
+    }
+
+    #item7{
+left: 810px;
+top: 262px;
+z-index: 1;
+    }
+
+       #item8{
+left: 830px;
+top: 327px;
+z-index: 1;
+    }
+
+     #item9{
+left: 810px;
+top: 390px;
+z-index: 1;
+    }
+
+      #item10{
+left:750px;
+top: 450px;
+z-index: 1;
+    }
+
+ #item11{
+left:580px;
+top: 550px;
+z-index: 1;
+    }   
+
+    
+    .wiki-search{
+        position: absolute;
+        line-height: 20px;
+        text-align: center;
+        padding: 8px;}
